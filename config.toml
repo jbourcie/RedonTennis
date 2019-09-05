@@ -183,7 +183,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Johann Bourcier"
       position = "Président"
-      description = "Johann est joueur de Tennis classé en 3ème série et à participé activement à la création de Redon Tennis"
+      description = "Johann est joueur de Tennis (3ème série) et a participé activement à la création de Redon Tennis"
       img = "johann.jpg"
       alt = "Johann Bourcier"
       social = [
@@ -195,7 +195,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Fredy Auguste"
       position = "Vice-Président"
-      description = "Fredy est joueur de Tennis et à participé activement à la création de Redon Tennis"
+      description = "Fredy est joueur de Tennis et a participé activement à la création de Redon Tennis"
       img = "person1.jpg"
       alt = "Fredy Auguste"
       social = [
@@ -207,7 +207,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Guillaume Le Bastard"
       position = "Trésorier"
-      description = "Guillaume est joueur de Tennis et à participé activement à la création de Redon Tennis"
+      description = "Guillaume est joueur de Tennis et a participé activement à la création de Redon Tennis"
       img = "person2.jpg"
       alt = "Guillaume Le Bastard"
       social = [
@@ -219,7 +219,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Elodie Le Brun"
       position = "Trésorière adjointe"
-      description = "Elodie est maman d'un joueur de Tennis et à participé activement à la création de Redon Tennis"
+      description = "Elodie est maman d'un joueur de Tennis et a participé activement à la création de Redon Tennis"
       img = "person3.jpg"
       alt = "Elodie Le Brun"
       social = [
@@ -231,7 +231,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Philippe Rault"
       position = "Secrétaire Général"
-      description = "Philippe est joueur de Tennis et à participé activement à la création de Redon Tennis"
+      description = "Philippe est joueur de Tennis et a participé activement à la création de Redon Tennis"
       img = "person4.jpg"
       alt = "Philippe Rault"
       social = [
