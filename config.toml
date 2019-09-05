@@ -85,39 +85,39 @@ publishDir = "docs"
     footertext = ''
 
     [[params.work.row]]
-      img = "court1.jpg"
-      alt = "Court 1"
-      title = "Court extérieur 1"
-      subtitle = "Béton poreux"
-
-    [[params.work.row]]
-      img = "court2.jpg"
-      alt = "Court 2"
-      title = "Court extérieur 2"
-      subtitle = "Béton poreux"
-
-    [[params.work.row]]
       img = "court3.jpg"
-      alt = "Court 3"
-      title = "Court intérieur 1"
-      subtitle = "Béton"
+      alt = "Court numéro 1 extérieur"
+      title = "Court numéro 1 extérieur"
+      subtitle = "Béton poreux"
 
     [[params.work.row]]
       img = "court4.jpg"
-      alt = "Court 4"
-      title = "Court intérieur 2"
+      alt = "Court numéro 2 extérieur"
+      title = "Court numéro 2 extérieur"
+      subtitle = "Béton poreux"
+
+    [[params.work.row]]
+      img = "court1.jpg"
+      alt = "Court numéro 1 couvert"
+      title = "Court numéro 1 couvert"
+      subtitle = "Béton"
+
+    [[params.work.row]]
+      img = "court2.jpg"
+      alt = "Court numéro 2 couvert"
+      title = "Court numéro 2 couvert"
       subtitle = "Plastique"
 
     [[params.work.row]]
       img = "clubHouse1.jpg"
-      alt = "Club house Principal"
-      title = "Club house Principal"
+      alt = "Club house"
+      title = "Club house"
       subtitle = ""
 
     [[params.work.row]]
       img = "clubHouse2.jpg"
-      alt = "Club house Secondaire"
-      title = "Club house Secondaire"
+      alt = "Bureau du club"
+      title = "Bureau du club"
       subtitle = ""
 
 
@@ -183,7 +183,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Johann Bourcier"
       position = "Président"
-      description = "Johann est joueur de Tennis classé en 3ème série et a participer activement à la création de Redon Tennis"
+      description = "Johann est joueur de Tennis classé en 3ème série et à participé activement à la création de Redon Tennis"
       img = "johann.jpg"
       alt = "Johann Bourcier"
       social = [
@@ -195,7 +195,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Fredy Auguste"
       position = "Vice-Président"
-      description = "Fredy est joueur de Tennis classé en 4ème série et a participer activement à la création de Redon Tennis"
+      description = "Fredy est joueur de Tennis et à participé activement à la création de Redon Tennis"
       img = "person1.jpg"
       alt = "Fredy Auguste"
       social = [
@@ -207,7 +207,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Guillaume Le Bastard"
       position = "Trésorier"
-      description = "Guillaume est joueur de Tennis classé en 4ème série et a participer activement à la création de Redon Tennis"
+      description = "Guillaume est joueur de Tennis et à participé activement à la création de Redon Tennis"
       img = "person2.jpg"
       alt = "Guillaume Le Bastard"
       social = [
@@ -219,7 +219,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Elodie Le Brun"
       position = "Trésorière adjointe"
-      description = "Elodie est maman d'un joueur de Tennis et a participer activement à la création de Redon Tennis"
+      description = "Elodie est maman d'un joueur de Tennis et à participé activement à la création de Redon Tennis"
       img = "person3.jpg"
       alt = "Elodie Le Brun"
       social = [
@@ -231,7 +231,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Philippe Rault"
       position = "Secrétaire Général"
-      description = "Philippe est joueur de Tennis classé en 4ème série et a participer activement à la création de Redon Tennis"
+      description = "Philippe est joueur de Tennis et à participé activement à la création de Redon Tennis"
       img = "person4.jpg"
       alt = "Philippe Rault"
       social = [
@@ -243,7 +243,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Raphaël Goudin"
       position = "Secrétaire adjoint"
-      description = "Raphaël est joueur de Tennis classé en 4ème série et a participer activement à la création de Redon Tennis"
+      description = "Raphaël est joueur de Tennis et a participer activement à la création de Redon Tennis"
       img = "person1.jpg"
       alt = "Raphaël Goudin"
       social = [
@@ -279,7 +279,7 @@ publishDir = "docs"
     [[params.about.item]]
       name = "Philippe Le Mouel"
       position = "Enseignant spécialisé ALD"
-      description = "Philippe est enseignant de Tennis spécialisé pour travailler avec des personnes atteintes d'affection de longue durée"
+      description = "Philippe le Mouel est notre enseignant de tennis sport santé diplômé. C'est lui qui encadrera les personnes atteintes d'affection de longue durée"
       img = "person2.jpg"
       alt = "Philippe Le Mouel"
       social = [
